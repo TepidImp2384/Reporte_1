@@ -35,6 +35,8 @@ Su propuesta de valor es proporcionar dentro de una misma plataforma lo necesari
 
 ## Proceso que involucra al usuario 
 
+  Este modelo, a diferencia de otros, tiene más interacción entre la compañia y su cliente, pues este último interactúa con el modelo de manera directa. Este le proveé de información sobre los servicios que la empresa da, además de que le notifica de actualizaciones de este. Por otra parte, 
+  
 ## Datos que se generan y registran 
 
 Basándonos en las empresas que investigamos, podemos crear la siguiente lista: 
