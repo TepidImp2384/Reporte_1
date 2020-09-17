@@ -43,7 +43,21 @@ Su propuesta de valor es proporcionar dentro de una misma plataforma lo necesari
 
 ### Datos que se generan y registran
   
-  
+  Basándonos en las empresas que investigamos, podemos crear la siguiente lista: 
+
+Interfaz hardware: todos los elementos que permiten ingresar, procesar, registrar y entregar datos. 
+Interfaz de software: información sobre los procesos y las herramientas de control. Visible para el usuario en la pantalla de su dispositivo móvil. 
+Interfaz software-hardware: es el puente entre la máquina, el servidor y las personas. 
+Interfaz del usuario-Características: claridad, concisión, coherencia, flexibilidad y atractivo visual. 
+
+Datos del usuario
+Ubicación 
+Métodos de pago 
+Lista de contactos
+Compra 
+Ticket de compra
+Productos
+Información del vendedor o proveedor
 
 ### Estándares aplicados en el modelo y cómo se usan
 
