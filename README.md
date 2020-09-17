@@ -8,33 +8,31 @@
   
   La empresa ... emplea el IoT en su proyecto ..., el cual va dirigido al sector ... . Dicho modelo se basa en una ..., el cual busca ... .
 
-
-Equipo X Æ A-12 
-Empresas identificadas individualmente
-Claudia 
-Empresa
+## Aplicación del internet de las cosas (Iot) en la empresa Heineken (Claudia)
+ 
+  Heineken 
 Sector
 MODELO Iot
-Problemática o necesidad que resuelve
-Modelo de uso Iot (colaborativo)
+Problemática o necesidad que resuelve 
 Criterio y/o metodología de selección
 Usuarios, clientes o beneficiarios
 Propuesta de valor para el público 
 Proceso que involucra al público 
 Datos que se generan y registran durante el proceso 
-GUÍA rápida, introductoria al uso de GitHub:
-Comandos básicos 
-Recursos de apoyo en línea
 
 ## Criterios de elección
 
   Con respecto a los anteriores modelos de IoT, se selecciono la de aplicaciones para celular. Los criterios que el equipo tomó en cuenta era sobre cuál modelo tendría un 
   Esto fue debido a que al equipo considero que se tendría una mayor cantidad de usuarios, además de que esto permite notificar al usuario de cualquier cambio y es de fácil acceso. 
+  
 ## Aplicación del internet de las cosas (IoT) en la empresa Microsoft (Ramsés)
 Microsoft en conjunto con la empresa filial Azure, mantienen el proyecto de Azure IoT, donde promueven el uso de su plataforma de nube para sectores como: automoción, energía, atención sanitaria, fabricación de procesos, transporte y logística. Su plataforma busca proporcionar mediante modalidades y app services distintas maneras de aplicar la conexión entre apliaciones y dispositivos, así como api's para lograrlo. El mercado que se busca varía desde PIMES hasta empresas y corporaciones grandes. 
 Su propuesta de valor es proporcionar dentro de una misma plataforma lo necesario para la conexión total del sistema deseado, tanto en base de datos como en aplicaciones en dispositivos móviles. 
 
+## GUÍA rápida, introductoria al uso de GitHub
 
+ Comandos básicos 
+ Recursos de apoyo en línea
 
 
 ### Referencias
