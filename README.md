@@ -22,9 +22,10 @@ Su propuesta de valor es proporcionar dentro de una misma plataforma lo necesari
   Con respecto a los anteriores modelos de IoT, se seleccionó el de aplicaciones para celular. Los criterios que el equipo tomó en cuenta fueron sobre cuál modelo se podría tener un mayor alcance de usuarios. Hablando de la tecnología y empresa, sobre cuál se podría seguir innovando a través del tiempo o el crecimiento que éste proyecto tenga.  
   Además de que una aplicación permite notificar al usuario de cualquier cambio al instante y es de fácil acceso. 
   
-## Usuarios,clientes y beneficiarios de este modelo 
+## Usuarios, clientes y beneficiarios de este modelo 
   
-  Al ser una aplicación de celular 
+   Cómo se mencionó en el punto anterior, en este modelo de Iot podemos tener un mayor alcance de usuarios, lo que amplía el rango de edades de estos. 
+ El límite se vería reflejado en el sector a trabajar o en la finalidad de la aplicación. En este caso, tomando en cuenta las empresas que buscamos individualmente podemos decir que el rango sería desde niños a adultos mayores en el ejemplo de supermercados o bien, de estudiantes a adultos en el caso de Amazon y Microsoft. 
 
 ## Propuesta de valor
 
@@ -34,7 +35,7 @@ Su propuesta de valor es proporcionar dentro de una misma plataforma lo necesari
 
 ## Estándares aplicados en el modelo y cómo se usan
 
-## GUÍA rápida, introductoria al uso de GitHub
+## Guía rápida e introductoria a la plataforma de GitHub
 
  Se puede decir que al trabajar en GitHub la información pasa por tres áreas: 
 working directory: donde trabajas los archivos_gitadd
@@ -53,7 +54,7 @@ git clone: crea una copia desde el servidor central del código a tu computadora
 
 Recursos de apoyo en línea
 
-Git y GitHub: Curso ´práctico de Git y GitHub desde cero.
+Git y GitHub: Curso práctico de Git y GitHub desde cero.
 Fazt (Productor).(2018) Git y GitHub: Curso ´práctico de Git y GitHub desde cero. https://www.youtube.com/watch?v=HiXLkL42tMU
 
 
