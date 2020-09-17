@@ -7,10 +7,6 @@
 ## Aplicación del internet de las cosas (IoT) en la empresa John Deere (Jorge)
   
   La empresa John Deere emplea el IoT en su proyecto de plantaciones en granjas, el cual va dirigido al sector primario. Dicho modelo se basa en una serie de sensores en la maquinaria, el cual busca un mejor uso de la energía, fuerza y capacidad en general de la maquinaria, además de mejorar la calidad de los cultivos y su eficiencia.
-  
-## Aplicación del internet de las cosas (IoT) en la empresa... (modelo que pueden modificar)
-  
-  La empresa ... emplea el IoT en su proyecto ..., el cual va dirigido al sector ... . Dicho modelo se basa en una ..., el cual busca ... .
 
 ## Aplicación del internet de las cosas (Iot) en la empresa City Market (Claudia)
  
