@@ -29,6 +29,16 @@ Su propuesta de valor es proporcionar dentro de una misma plataforma lo necesari
 
   Con respecto a los anteriores modelos de IoT, se seleccionó el de aplicaciones para celular. Los criterios que el equipo tomó en cuenta fueron sobre cuál modelo se podría tener un mayor alcance de usuarios. Hablando de la tecnología y empresa, sobre cuál se podría seguir innovando a través del tiempo o el crecimiento que éste proyecto tenga.  
   Además de que una aplicación permite notificar al usuario de cualquier cambio al instante y es de fácil acceso. 
+  
+## Usuarios,clientes y beneficiarios de este modelo 
+
+## Propuesta de valor
+
+## Proceso que involucra al usuario 
+
+## Datos que se generan y registran 
+
+## Estándares aplicados en el modelo y cómo se usan
 
 ## GUÍA rápida, introductoria al uso de GitHub
 
