@@ -10,15 +10,7 @@
 
 ## Aplicación del internet de las cosas (Iot) en la empresa Heineken (Claudia)
  
-  Heineken 
-Sector
-MODELO Iot
-Problemática o necesidad que resuelve 
-Criterio y/o metodología de selección
-Usuarios, clientes o beneficiarios
-Propuesta de valor para el público 
-Proceso que involucra al público 
-Datos que se generan y registran durante el proceso 
+  City Market es un supermercado que se posiciona en un status gourmet. Esto debido a su gran variedad de productos y especialmente alimentos. Tiene un amplia gama de variedad que incluye productos de alto valor. El supermercado trabaja con un modelo IoT casi desde su apertura y pertenece al sector alimentario. Su aplicación permite tener fácil acceso a una vista digitalizada de su comercio, puedes realizar tu pedido desde cualquier lado y casi a cualquier domicilio. Además de que permite al ususario establecer fecha y hora de entrega. Algo que caracteriza a este aplicación de la de otros supermercados en línea es su scanner de tickets y su método de facturación. 
 
 ## Aplicación del internet de las cosas (IoT) en la empresa Microsoft (Ramsés)
 
@@ -31,6 +23,8 @@ Su propuesta de valor es proporcionar dentro de una misma plataforma lo necesari
   Además de que una aplicación permite notificar al usuario de cualquier cambio al instante y es de fácil acceso. 
   
 ## Usuarios,clientes y beneficiarios de este modelo 
+  
+  Al ser una aplicación de celular 
 
 ## Propuesta de valor
 
