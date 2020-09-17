@@ -20,14 +20,15 @@ Propuesta de valor para el público
 Proceso que involucra al público 
 Datos que se generan y registran durante el proceso 
 
+## Aplicación del internet de las cosas (IoT) en la empresa Microsoft (Ramsés)
+
+ Microsoft en conjunto con la empresa filial Azure, mantienen el proyecto de Azure IoT, donde promueven el uso de su plataforma de nube para sectores como: automoción, energía, atención sanitaria, fabricación de procesos, transporte y logística. Su plataforma busca proporcionar mediante modalidades y app services distintas maneras de aplicar la conexión entre apliaciones y dispositivos, así como api's para lograrlo. El mercado que se busca varía desde PIMES hasta empresas y corporaciones grandes. 
+Su propuesta de valor es proporcionar dentro de una misma plataforma lo necesario para la conexión total del sistema deseado, tanto en base de datos como en aplicaciones en dispositivos móviles. 
+
 ## Criterios de elección
 
-  Con respecto a los anteriores modelos de IoT, se selecciono la de aplicaciones para celular. Los criterios que el equipo tomó en cuenta era sobre cuál modelo tendría un 
-  Esto fue debido a que al equipo considero que se tendría una mayor cantidad de usuarios, además de que esto permite notificar al usuario de cualquier cambio y es de fácil acceso. 
-  
-## Aplicación del internet de las cosas (IoT) en la empresa Microsoft (Ramsés)
-Microsoft en conjunto con la empresa filial Azure, mantienen el proyecto de Azure IoT, donde promueven el uso de su plataforma de nube para sectores como: automoción, energía, atención sanitaria, fabricación de procesos, transporte y logística. Su plataforma busca proporcionar mediante modalidades y app services distintas maneras de aplicar la conexión entre apliaciones y dispositivos, así como api's para lograrlo. El mercado que se busca varía desde PIMES hasta empresas y corporaciones grandes. 
-Su propuesta de valor es proporcionar dentro de una misma plataforma lo necesario para la conexión total del sistema deseado, tanto en base de datos como en aplicaciones en dispositivos móviles. 
+  Con respecto a los anteriores modelos de IoT, se seleccionó el de aplicaciones para celular. Los criterios que el equipo tomó en cuenta fueron sobre cuál modelo se podría tener un mayor alcance de usuarios. Hablando de la tecnología y empresa, sobre cuál se podría seguir innovando a través del tiempo o el crecimiento que éste proyecto tenga.  
+  Además de que una aplicación permite notificar al usuario de cualquier cambio al instante y es de fácil acceso. 
 
 ## GUÍA rápida, introductoria al uso de GitHub
 
@@ -49,7 +50,7 @@ git clone: crea una copia desde el servidor central del código a tu computadora
 Recursos de apoyo en línea
 
 Git y GitHub: Curso ´práctico de Git y GitHub desde cero.
-https://www.youtube.com/watch?v=HiXLkL42tMU
+Fazt (Productor).(2018) Git y GitHub: Curso ´práctico de Git y GitHub desde cero. https://www.youtube.com/watch?v=HiXLkL42tMU
 
 
 ### Referencias
