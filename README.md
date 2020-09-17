@@ -10,7 +10,15 @@
 
 ## Aplicación del internet de las cosas (Iot) en la empresa Heineken (Claudia)
  
-  City Market es un supermercado que se posiciona en un status gourmet. Esto debido a su gran variedad de productos y especialmente alimentos. Tiene un amplia gama de variedad que incluye productos de alto valor. El supermercado trabaja con un modelo IoT casi desde su apertura y pertenece al sector alimentario. Su aplicación permite tener fácil acceso a una vista digitalizada de su comercio, puedes realizar tu pedido desde cualquier lado y casi a cualquier domicilio. Además de que permite al ususario establecer fecha y hora de entrega. Algo que caracteriza a este aplicación de la de otros supermercados en línea es su scanner de tickets y su método de facturación. 
+  Heineken 
+Sector
+MODELO Iot
+Problemática o necesidad que resuelve 
+Criterio y/o metodología de selección
+Usuarios, clientes o beneficiarios
+Propuesta de valor para el público 
+Proceso que involucra al público 
+Datos que se generan y registran durante el proceso 
 
 ## Aplicación del internet de las cosas (IoT) en la empresa Microsoft (Ramsés)
 
@@ -19,44 +27,34 @@ Su propuesta de valor es proporcionar dentro de una misma plataforma lo necesari
 
 ## Criterios de elección
 
-  Con respecto a los anteriores modelos de IoT, se seleccionó el de aplicaciones para celular. Los criterios que el equipo tomó en cuenta fueron sobre cuál modelo se podría tener un mayor alcance de usuarios. Hablando de la tecnología y empresa, sobre cuál se podría seguir innovando a través del tiempo o el crecimiento que éste proyecto tenga.  
-  Además de que una aplicación permite notificar al usuario de cualquier cambio al instante y es de fácil acceso. 
+  Con respecto a los anteriores modelos de IoT, se seleccionó el de aplicaciones para celular. Los criterios que el equipo tomó en cuenta fueron sobre cuál modelo se podría tener un mayor alcance de usuarios. Hablando de la tecnología y empresa, sobre cuál se podría seguir innovando a través del tiempo o el crecimiento que éste proyecto tenga.  Además de que una aplicación permite notificar al usuario de cualquier cambio al instante y es de fácil acceso. 
   
-## Usuarios, clientes y beneficiarios de este modelo 
+### Usuarios,clientes y beneficiarios de este modelo 
+
+  Los principales usuarios beneficiados serían todos aquellos que tienen un celular inteligente, pues ellos pueden descargar las aplicaciones y recibir notificaciones del servicio que se les ofrece. Otro beneficiario serian las empresas, pues estos pueden recibir información de lo que hacen sus clientes, para luego ver cuáles podrían ser sus áreas de opotunidad de su aplicación
+
+### Propuesta de valor
+
+  Este modelo, a diferencia de otros, tiene más interacción entre la compañia y su cliente, pues este último interactúa con el modelo de manera directa. Este le proveé de información sobre los servicios que la empresa da, además de que le notifica de actualizaciones de este. Por otra parte, 
+
+### Proceso que involucra al usuario 
+
+  El proceso en el que se involucra al usuario es el hecho de que ellos, al contratar un servicio, ellos obtienen acceso a una aplicación de lo que se les ofrece. En ese sistema, ellos pueden realizar varias acciones que la empresa ofrece, a su vez de que ellos tienen un historial de sus previas interacciones con el servicio. Un ejemplo de ello es la empresa Amazon el cual, por medio de una aplicación, pueden entrar a las tiendas Amazon Go, los cuales solo les deja acceder si tienen acceso a este servicio. Después de entrar, ellos pueden agarrar lo que gusten, para luego retirarse de la tienda. Al retirarse, los productos que ellos hayan agarrado serán cobrados automaticamente a su tarjeta, por lo cual, el usuario no necesitará ir a una caja registradora, ni hacer un "check-out". Además, el usuario, si aún no sale de la tienda, el usuario aún tiene registro de lo que esta llevando en la aplicación, lo cual le da control de sus compras.
+
+### Datos que se generan y registran
   
-   Cómo se mencionó en el punto anterior, en este modelo de Iot podemos tener un mayor alcance de usuarios, lo que amplía el rango de edades de estos. 
- El límite se vería reflejado en el sector a trabajar o en la finalidad de la aplicación. En este caso, tomando en cuenta las empresas que buscamos individualmente podemos decir que el rango sería desde niños a adultos mayores en el ejemplo de supermercados o bien, de estudiantes a adultos en el caso de Amazon y Microsoft. 
+  
 
-## Propuesta de valor
+### Estándares aplicados en el modelo y cómo se usan
 
-## Proceso que involucra al usuario 
+  
 
-## Datos que se generan y registran 
-
-Basándonos en las empresas que investigamos, podemos crear la siguiente lista: 
-
-Interfaz hardware: todos los elementos que permiten ingresar, procesar, registrar y entregar datos. 
-Interfaz de software: información sobre los procesos y las herramientas de control. Visible para el usuario en la pantalla de su dispositivo móvil. 
-Interfaz software-hardware: es el puente entre la máquina, el servidor y las personas. 
-Interfaz del usuario-Características: claridad, concisión, coherencia, flexibilidad y atractivo visual. 
-
-Datos del usuario
-Ubicación 
-Métodos de pago 
-Lista de contactos
-Compra 
-Ticket de compra
-Productos
-Información del vendedor o proveedor
-
-## Estándares aplicados en el modelo y cómo se usan
-
-## Guía rápida e introductoria a la plataforma de GitHub
+## GUÍA rápida, introductoria al uso de GitHub
 
  Se puede decir que al trabajar en GitHub la información pasa por tres áreas: 
-working directory: donde trabajas los archivos_gitadd
-stagging area: donde agregas las diferentes versiones de los archivos creados en el working directory_git commit
-repository area: guarda los cambios finales
+1.- working directory: donde trabajas los archivos_gitadd
+2.- stagging area: donde agregas las diferentes versiones de los archivos creados en el working directory_git commit
+3.- repository area: guarda los cambios finales
 
 Comandos básicos
 
@@ -70,10 +68,9 @@ git clone: crea una copia desde el servidor central del código a tu computadora
 
 Recursos de apoyo en línea
 
-Git y GitHub: Curso práctico de Git y GitHub desde cero.
+Git y GitHub: Curso ´práctico de Git y GitHub desde cero.
 Fazt (Productor).(2018) Git y GitHub: Curso ´práctico de Git y GitHub desde cero. https://www.youtube.com/watch?v=HiXLkL42tMU
 
-
-### Referencias
+## Referencias
 
 Amazon (Productor).(2020) Introducing Amazon Go and the world’s most advanced shopping technology [Video]
