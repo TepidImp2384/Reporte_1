@@ -12,7 +12,7 @@
   
   La empresa ... emplea el IoT en su proyecto ..., el cual va dirigido al sector ... . Dicho modelo se basa en una ..., el cual busca ... .
 
-## Aplicación del internet de las cosas (Iot) en la empresa Heineken (Claudia)
+## Aplicación del internet de las cosas (Iot) en la empresa City Market (Claudia)
  
   City Market es un supermercado que se posiciona en un status gourmet. Esto debido a su gran variedad de productos y especialmente alimentos. Tiene un amplia gama de variedad que incluye productos de alto valor. El supermercado trabaja con un modelo IoT casi desde su apertura y pertenece al sector alimentario. Su aplicación permite tener fácil acceso a una vista digitalizada de su comercio, puedes realizar tu pedido desde cualquier lado y casi a cualquier domicilio. Además de que permite al ususario establecer fecha y hora de entrega. Algo que caracteriza a este aplicación de la de otros supermercados en línea es su scanner de tickets y su método de facturación. 
 
