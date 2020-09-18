@@ -1,7 +1,7 @@
 # Reporte Equipo X Æ A-12 
 
-Table of contents
-=================
+Tabla de contenido
+==================
 
 *[Reporte Equipo X Æ A-12](#Reporte-Equipo-X-Æ-A--12)
   *[Aplicación del internet de las cosas (IoT) en las empresas](#Aplicación-del-internet-de-las-cosas-(IoT)-en-las-empresas)
