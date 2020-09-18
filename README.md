@@ -1,5 +1,25 @@
 # Reporte Equipo X Æ A-12 
 
+Table of contents
+=================
+
+*[Reporte Equipo X Æ A-12](#Reporte-Equipo-X-Æ-A--12)
+  *[Aplicación del internet de las cosas (IoT) en las empresas](#Aplicación-del-internet-de-las-cosas-(IoT)-en-las-empresas)
+    *[Aplicación IoT en la empresa Amazon (Rafael)](#Aplicación-IoT-en-la-empresa-Amazon-(Rafael))
+    *[Aplicación IoT en la empresa John Deere (Jorge)](#Aplicación-IoT-en-la-empresa-John-Deere-(Jorge))
+    *[Aplicación IoT en la empresa City Market (Claudia)](#Aplicación-IoT-en-la-empresa-City-Market-(Claudia))
+    *[Aplicación IoT en la empresa Microsoft (Ramsés)](#Aplicación-IoT-en-la-empresa-Microsoft-(Ramsés))
+    *[Aplicación IoT en la empresa LINK Mobility (Edmundo)](#Aplicación-IoT-en-la-empresa-LINK-Mobility-(Edmundo))
+   *[Criterios de elección](#Criterios-de-elección)
+   *[Usuarios, clientes y beneficiarios de este modelo](#Usuarios,-clientes-y-beneficiarios-de-este-modelo)
+   *[Propuesta de valor](#Propuesta-de-valor)
+   *[Proceso que involucra al usuario](#Proceso-que-involucra-al-usuario)
+   *[Datos que se generan y registran](#Datos-que-se-generan-y-registran)
+   *[Estándares aplicados en el modelo y cómo se usan](#Estándares-aplicados-en-el-modelo-y-cómo-se-usan)
+   *[Guía rápida e introductoria a la plataforma de GitHub](#Guía-rápida-e-introductoria-a-la-plataforma-de-GitHub)
+   *[Buenas prácticas en la industria para el uso de git y commit](#Buenas-prácticas-en-la-industria-para-el-uso-de-git-y-commit)
+   *[Referencias](#Referencias)
+
 ## Aplicación del internet de las cosas (IoT) en las empresas
 
 ### Aplicación IoT en la empresa Amazon (Rafael)
