@@ -143,26 +143,26 @@ Nuestra aplicación para los móviles será una con dos sensores, sensor de loca
 
 ### Referencias
 
-[1] Amazon (Productor).(2020) Introducing Amazon Go and the world’s most advanced shopping technology [Video]
+[1](#1) Amazon (Productor).(2020) Introducing Amazon Go and the world’s most advanced shopping technology [Video]
 
-[2] Fearn, N. (2016, September 09). John Deere turns to IoT to make smart farming a reality. Retrieved September 16, 2020, from https://internetofbusiness.com/john-deere-turns-iot-smart-farming/
+[2](#2) Fearn, N. (2016, September 09). John Deere turns to IoT to make smart farming a reality. Retrieved September 16, 2020, from https://internetofbusiness.com/john-deere-turns-iot-smart-farming/
 
-[3] Argob. (2019, November 22). Argob/estandares. Retrieved September 16, 2020, from https://github.com/argob/estandares/blob/master/estandares-apps.md
+[3](#3) Argob. (2019, November 22). Argob/estandares. Retrieved September 16, 2020, from https://github.com/argob/estandares/blob/master/estandares-apps.md
 
-[4] Yossef, N. (2018, 7 mayo). Git commit best practices - Nawar Yossef. Medium. https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99
+[4](#4) Yossef, N. (2018, 7 mayo). Git commit best practices - Nawar Yossef. Medium. https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99
 
-[5] S. (2019, 8 febrero). Best practices for using Git. DeepSource. https://deepsource.io/blog/git-best-practices/
+[5](#5) S. (2019, 8 febrero). Best practices for using Git. DeepSource. https://deepsource.io/blog/git-best-practices/
 
-[6] Jorgerojas. (2017, April 19). Empresas Alemanas a la vanguardia de la IoT. Retrieved September 16, 2020, from http://tecnologia.alemaniahoy.com/tecnologia/empresas-alemanas-vanguardia-iot/
+[6](#6) Jorgerojas. (2017, April 19). Empresas Alemanas a la vanguardia de la IoT. Retrieved September 16, 2020, from http://tecnologia.alemaniahoy.com/tecnologia/empresas-alemanas-vanguardia-iot/
 
-[7] Interfaz de usuario o UI: ¿qué es y cuáles son sus características? (2019, August 01). Retrieved September 16, 2020, from https://rockcontent.com/es/blog/interfaz-de-usuario/
+[7](#7) Interfaz de usuario o UI: ¿qué es y cuáles son sus características? (2019, August 01). Retrieved September 16, 2020, from https://rockcontent.com/es/blog/interfaz-de-usuario/
 
-[8] Red Hat Inc. (n.d.). ¿Qué es el IoT? Retrieved September 16, 2020, from https://www.redhat.com/es/topics/internet-of-things/what-is-iot
+[8](#8) Red Hat Inc. (n.d.). ¿Qué es el IoT? Retrieved September 16, 2020, from https://www.redhat.com/es/topics/internet-of-things/what-is-iot
 
-[9] Fazt (Director). (2018, January 1). Git y Github | Curso Práctico de Git y Github Desde Cero [Video file]. Retrieved September 16, 2020, from https://www.youtube.com/watch?v=HiXLkL42tMU
+[9](#9) Fazt (Director). (2018, January 1). Git y Github | Curso Práctico de Git y Github Desde Cero [Video file]. Retrieved September 16, 2020, from https://www.youtube.com/watch?v=HiXLkL42tMU
 
-[10] Plexure. (2019, August 23). Why grocery stores are adding mobile and IoT to the shopping list. Retrieved September 16, 2020, from https://medium.com/@plexurelive/why-grocery-stores-are-adding-iot-to-the-shopping-list-4d492d031c27
+[10](#10) Plexure. (2019, August 23). Why grocery stores are adding mobile and IoT to the shopping list. Retrieved September 16, 2020, from https://medium.com/@plexurelive/why-grocery-stores-are-adding-iot-to-the-shopping-list-4d492d031c27
 
-[11] Doug Bonderud Doug Bonderud is an award-winning writer capable of bridging the gap between complex and conversational across technology, I. A. (2019, November 25). Smart Supermarkets: How IoT Is Shaping the Future of Retail. Retrieved September 16, 2020, from https://biztechmagazine.com/article/2020/04/smart-supermarkets-how-iot-shaping-future-retail-perfcon#:~:text=Smart supermarkets use connected IoT,store staff make better decisions.&text=To deliver value, smart supermarkets,experience and enhanced corporate efficiency
+[11](#11) Doug Bonderud Doug Bonderud is an award-winning writer capable of bridging the gap between complex and conversational across technology, I. A. (2019, November 25). Smart Supermarkets: How IoT Is Shaping the Future of Retail. Retrieved September 16, 2020, from https://biztechmagazine.com/article/2020/04/smart-supermarkets-how-iot-shaping-future-retail-perfcon#:~:text=Smart supermarkets use connected IoT,store staff make better decisions.&text=To deliver value, smart supermarkets,experience and enhanced corporate efficiency
 
-[12] Microsoft. (n.d.). Azure IoT. Retrieved September 16, 2020, from https://azure.microsoft.com/es-mx/overview/iot/
+[12](#12) Microsoft. (n.d.). Azure IoT. Retrieved September 16, 2020, from https://azure.microsoft.com/es-mx/overview/iot/
