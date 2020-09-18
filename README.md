@@ -24,11 +24,11 @@ Tabla de contenido
 
 ### Aplicación IoT en la empresa Amazon (Rafael)
   
-  Amazon está empleando el IoT en su proyecto Amazon Go, el cual pertenece al sector de supermercados. El modelo que este utiliza es por medio de una aplicación, la cual busca que los usuarios, al ir a comprar en una tienda Amazon Go, puedan agarrar lo que quieren y se paga de manera automatica al salir de ahí. Esto se paga por medio de su cuenta en Amazon y sus artículos son registrados cuando este lo agarra de su lugar.
+  Amazon está empleando el IoT en su proyecto Amazon Go, el cual pertenece al sector de supermercados. El modelo que este utiliza es por medio de una aplicación, la cual busca que los usuarios, al ir a comprar en una tienda Amazon Go, puedan agarrar lo que quieren y se paga de manera automatica al salir de ahí. Esto se paga por medio de su cuenta en Amazon y sus artículos son registrados cuando este lo agarra de su lugar.[1]
   
 ### Aplicación IoT en la empresa John Deere (Jorge)
   
-  La empresa John Deere emplea el IoT en su proyecto de plantaciones en granjas, el cual va dirigido al sector primario. Dicho modelo se basa en una serie de sensores en la maquinaria, el cual busca un mejor uso de la energía, fuerza y capacidad en general de la maquinaria, además de mejorar la calidad de los cultivos y su eficiencia.
+  La empresa John Deere emplea el IoT en su proyecto de plantaciones en granjas, el cual va dirigido al sector primario. Dicho modelo se basa en una serie de sensores en la maquinaria, el cual busca un mejor uso de la energía, fuerza y capacidad en general de la maquinaria, además de mejorar la calidad de los cultivos y su eficiencia.[2]
 
 ### Aplicación IoT en la empresa City Market (Claudia)
  
@@ -41,7 +41,7 @@ Su propuesta de valor es proporcionar dentro de una misma plataforma lo necesari
 
 ### Aplicación IoT en la empresa LINK Mobility (Edmundo)
 
-  Para dispositivos con la capacidad de conectarse a Internet, producidos generalmente de manera masiva en líneas de producción, existe el requerimiento adicional de poder identificar a cada uno de manera única, con el objetivo de hacerles seguimiento, mantener un archivo histórico de cada uno, y así poder hacer uso de los datos generados por cada dispositivo de la mejor manera. La compañía LINK Mobility GmbH ofrece este tipo de tarjetas así como servicios de seguimiento, localización y configuración.
+  Para dispositivos con la capacidad de conectarse a Internet, producidos generalmente de manera masiva en líneas de producción, existe el requerimiento adicional de poder identificar a cada uno de manera única, con el objetivo de hacerles seguimiento, mantener un archivo histórico de cada uno, y así poder hacer uso de los datos generados por cada dispositivo de la mejor manera. La compañía LINK Mobility GmbH ofrece este tipo de tarjetas así como servicios de seguimiento, localización y configuración. [6]
 
 ## Criterios de elección
 
@@ -51,15 +51,15 @@ Su propuesta de valor es proporcionar dentro de una misma plataforma lo necesari
 ## Usuarios, clientes y beneficiarios de este modelo 
   
    Cómo se mencionó en el punto anterior, en este modelo de Iot podemos tener un mayor alcance de usuarios, lo que amplía el rango de edades de estos. 
- El límite se vería reflejado en el sector a trabajar o en la finalidad de la aplicación. En este caso, tomando en cuenta las empresas que buscamos individualmente podemos decir que el rango sería desde niños a adultos mayores en el ejemplo de supermercados o bien, de estudiantes a adultos en el caso de Amazon y Microsoft. 
+ El límite se vería reflejado en el sector a trabajar o en la finalidad de la aplicación. En este caso, tomando en cuenta las empresas que buscamos individualmente podemos decir que el rango sería desde niños a adultos mayores en el ejemplo de supermercados o bien, de estudiantes a adultos en el caso de Amazon y Microsoft. [8]
 
 ## Propuesta de valor
 
-  Este modelo, a diferencia de otros, tiene más interacción entre la compañia y su cliente, pues este último interactúa con el modelo de manera directa. Este le proveé de información sobre los servicios que la empresa da, además de que le notifica de actualizaciones de este. Por otra parte, la empresa pude obtener información que le puede ayudar a mejorar o innovar sus servicios, volviendola una empresa más competitiva.
+  Este modelo, a diferencia de otros, tiene más interacción entre la compañia y su cliente, pues este último interactúa con el modelo de manera directa. Este le proveé de información sobre los servicios que la empresa da, además de que le notifica de actualizaciones de este. Por otra parte, la empresa pude obtener información que le puede ayudar a mejorar o innovar sus servicios, volviendola una empresa más competitiva. [8]
 
 ## Proceso que involucra al usuario 
 
-  El proceso en el que se involucra al usuario es el hecho de que ellos, al contratar un servicio, ellos obtienen acceso a una aplicación de lo que se les ofrece. En ese sistema, ellos pueden realizar varias acciones que la empresa ofrece, a su vez de que ellos tienen un historial de sus previas interacciones con el servicio. Un ejemplo de ello es la empresa Amazon el cual, por medio de una aplicación, pueden entrar a las tiendas Amazon Go, los cuales solo les deja acceder si tienen acceso a este servicio. Después de entrar, ellos pueden agarrar lo que gusten, para luego retirarse de la tienda. Al retirarse, los productos que ellos hayan agarrado serán cobrados automaticamente a su tarjeta, por lo cual, el usuario no necesitará ir a una caja registradora, ni hacer un "check-out". Además, el usuario, si aún no sale de la tienda, el usuario aún tiene registro de lo que esta llevando en la aplicación, lo cual le da control de sus compras.
+  El proceso en el que se involucra al usuario es el hecho de que ellos, al contratar un servicio, ellos obtienen acceso a una aplicación de lo que se les ofrece. En ese sistema, ellos pueden realizar varias acciones que la empresa ofrece, a su vez de que ellos tienen un historial de sus previas interacciones con el servicio. Un ejemplo de ello es la empresa Amazon el cual, por medio de una aplicación, pueden entrar a las tiendas Amazon Go, los cuales solo les deja acceder si tienen acceso a este servicio. Después de entrar, ellos pueden agarrar lo que gusten, para luego retirarse de la tienda. Al retirarse, los productos que ellos hayan agarrado serán cobrados automaticamente a su tarjeta, por lo cual, el usuario no necesitará ir a una caja registradora, ni hacer un "check-out". Además, el usuario, si aún no sale de la tienda, el usuario aún tiene registro de lo que esta llevando en la aplicación, lo cual le da control de sus compras. [8]
   
 ## Datos que se generan y registran 
 
@@ -87,7 +87,7 @@ Ticket de compra
 
 Productos
 
-Información del vendedor o proveedor
+Información del vendedor o proveedor [7]
 
 ## Estándares aplicados en el modelo y cómo se usan
 
@@ -107,7 +107,7 @@ Información del vendedor o proveedor
   
   +versión v.1.0.0: Representan un cambio sustancial respecto de la funcionalidad o de la estética actual del sitio.
 
--Debe de ser compatible con la última versión estable del sistema
+-Debe de ser compatible con la última versión estable del sistema[3]
 
 ## Guía rápida e introductoria a la plataforma de GitHub
 
@@ -133,27 +133,27 @@ git push : sube los archivos a un repositorio remoto. Si tienes un código traba
 
 git pull : muestra los cambios realizados por los otros desarrolladores
 
-git clone: crea una copia desde el servidor central del código a tu computadora
-
-Recursos de apoyo en línea
-
-Git y GitHub: Curso práctico de Git y GitHub desde cero.
-Fazt (Productor).(2018) Git y GitHub: Curso ´práctico de Git y GitHub desde cero. https://www.youtube.com/watch?v=HiXLkL42tMU
+git clone: crea una copia desde el servidor central del código a tu computadora [9]
 
 ## Buenas prácticas en la industria para el uso de git y commit
-Dentro de las prácticas recomendadas para el uso del git y commit se encuentran distintos métodos, sin embargo todos tienen el mismo propósito: mantener el código en master lo más seguro y sin errores. Para ello se recomiendan cosas como mantener los commits cortos y sencillos, específicamente centrados en un error o mejora en particular, sin combinar diversas fallas para mantener la revisión eficiente entre compañeros. Asimismo, se recomienda hacer commits con frecuencia e incluir mensajes significativos sobre cada commit, debido que hay veces donde el branch requiere de mucho tiempo antes de estar listo para hacer el merge. Es importante no hacer commits sobre códigos incompletos o bien sin probar, de tal forma que se busca hacer un commit con secciones de código listas poco a poco para llegar al cambio completo sin errores. Otra recomendación entre usuarios de github es aprender a utilizar Git con la línea de comando, especialmente en uso de profesionales del área. Los últimos dos puntos para el commit, es que se recomienda no alterar historia de archivos, así como no hacer commits sobre archivos generados después de master. 
-
-
-Yossef, N. (2018, 7 mayo). Git commit best practices - Nawar Yossef. Medium. https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99
-
-S. (2019, 8 febrero). Best practices for using Git. DeepSource. https://deepsource.io/blog/git-best-practices/
-
-
+Dentro de las prácticas recomendadas para el uso del git y commit se encuentran distintos métodos, sin embargo todos tienen el mismo propósito: mantener el código en master lo más seguro y sin errores. Para ello se recomiendan cosas como mantener los commits cortos y sencillos, específicamente centrados en un error o mejora en particular, sin combinar diversas fallas para mantener la revisión eficiente entre compañeros. Asimismo, se recomienda hacer commits con frecuencia e incluir mensajes significativos sobre cada commit, debido que hay veces donde el branch requiere de mucho tiempo antes de estar listo para hacer el merge. Es importante no hacer commits sobre códigos incompletos o bien sin probar, de tal forma que se busca hacer un commit con secciones de código listas poco a poco para llegar al cambio completo sin errores. Otra recomendación entre usuarios de github es aprender a utilizar Git con la línea de comando, especialmente en uso de profesionales del área. Los últimos dos puntos para el commit, es que se recomienda no alterar historia de archivos, así como no hacer commits sobre archivos generados después de master. [4] [5]
 
 ### Referencias
 
-Amazon (Productor).(2020) Introducing Amazon Go and the world’s most advanced shopping technology [Video]
+[1] Amazon (Productor).(2020) Introducing Amazon Go and the world’s most advanced shopping technology [Video]
 
-Fearn, N. (2016, September 09). John Deere turns to IoT to make smart farming a reality. Retrieved September 16, 2020, from https://internetofbusiness.com/john-deere-turns-iot-smart-farming/
+[2] Fearn, N. (2016, September 09). John Deere turns to IoT to make smart farming a reality. Retrieved September 16, 2020, from https://internetofbusiness.com/john-deere-turns-iot-smart-farming/
 
-Argob. (2019, November 22). Argob/estandares. Retrieved September 16, 2020, from https://github.com/argob/estandares/blob/master/estandares-apps.md
+[3] Argob. (2019, November 22). Argob/estandares. Retrieved September 16, 2020, from https://github.com/argob/estandares/blob/master/estandares-apps.md
+
+[4] Yossef, N. (2018, 7 mayo). Git commit best practices - Nawar Yossef. Medium. https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99
+
+[5] S. (2019, 8 febrero). Best practices for using Git. DeepSource. https://deepsource.io/blog/git-best-practices/
+
+[6] Jorgerojas. (2017, April 19). Empresas Alemanas a la vanguardia de la IoT. Retrieved September 16, 2020, from http://tecnologia.alemaniahoy.com/tecnologia/empresas-alemanas-vanguardia-iot/
+
+[7] Interfaz de usuario o UI: ¿qué es y cuáles son sus características? (2019, August 01). Retrieved September 16, 2020, from https://rockcontent.com/es/blog/interfaz-de-usuario/
+
+[8] Red Hat Inc. (n.d.). ¿Qué es el IoT? Retrieved September 16, 2020, from https://www.redhat.com/es/topics/internet-of-things/what-is-iot
+
+[9] Fazt (Director). (2018, January 1). Git y Github | Curso Práctico de Git y Github Desde Cero [Video file]. Retrieved September 16, 2020, from https://www.youtube.com/watch?v=HiXLkL42tMU
