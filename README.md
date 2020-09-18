@@ -118,6 +118,15 @@ Recursos de apoyo en línea
 Git y GitHub: Curso práctico de Git y GitHub desde cero.
 Fazt (Productor).(2018) Git y GitHub: Curso ´práctico de Git y GitHub desde cero. https://www.youtube.com/watch?v=HiXLkL42tMU
 
+## Buenas prácticas en la industria para el uso de git y commit
+Dentro de las prácticas recomendadas para el uso del git y commit se encuentran distintos métodos, sin embargo todos tienen el mismo propósito: mantener el código en master lo más seguro y sin errores. Para ello se recomiendan cosas como mantener los commits cortos y sencillos, específicamente centrados en un error o mejora en particular, sin combinar diversas fallas para mantener la revisión eficiente entre compañeros. Asimismo, se recomienda hacer commits con frecuencia e incluir mensajes significativos sobre cada commit, debido que hay veces donde el branch requiere de mucho tiempo antes de estar listo para hacer el merge. Es importante no hacer commits sobre códigos incompletos o bien sin probar, de tal forma que se busca hacer un commit con secciones de código listas poco a poco para llegar al cambio completo sin errores. Otra recomendación entre usuarios de github es aprender a utilizar Git con la línea de comando, especialmente en uso de profesionales del área. Los últimos dos puntos para el commit, es que se recomienda no alterar historia de archivos, así como no hacer commits sobre archivos generados después de master. 
+
+
+Yossef, N. (2018, 7 mayo). Git commit best practices - Nawar Yossef. Medium. https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99
+
+S. (2019, 8 febrero). Best practices for using Git. DeepSource. https://deepsource.io/blog/git-best-practices/
+
+
 
 ### Referencias
 
