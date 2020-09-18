@@ -32,12 +32,12 @@ Tabla de contenido
 
 ### Aplicación IoT en la empresa City Market (Claudia)
  
-  City Market es un supermercado que se posiciona en un status gourmet. Esto debido a su gran variedad de productos y especialmente alimentos. Tiene un amplia gama de variedad que incluye productos de alto valor. El supermercado trabaja con un modelo IoT casi desde su apertura y pertenece al sector alimentario. Su aplicación permite tener fácil acceso a una vista digitalizada de su comercio, puedes realizar tu pedido desde cualquier lado y casi a cualquier domicilio. Además de que permite al ususario establecer fecha y hora de entrega. Algo que caracteriza a este aplicación de la de otros supermercados en línea es su scanner de tickets y su método de facturación. 
+  City Market es un supermercado que se posiciona en un status gourmet. Esto debido a su gran variedad de productos y especialmente alimentos. Tiene un amplia gama de variedad que incluye productos de alto valor. El supermercado trabaja con un modelo IoT casi desde su apertura y pertenece al sector alimentario. Su aplicación permite tener fácil acceso a una vista digitalizada de su comercio, puedes realizar tu pedido desde cualquier lado y casi a cualquier domicilio. Además de que permite al ususario establecer fecha y hora de entrega. Algo que caracteriza a este aplicación de la de otros supermercados en línea es su scanner de tickets y su método de facturación. [10] [11]
 
 ### Aplicación IoT en la empresa Microsoft (Ramsés)
 
  Microsoft en conjunto con la empresa filial Azure, mantienen el proyecto de Azure IoT, donde promueven el uso de su plataforma de nube para sectores como: automoción, energía, atención sanitaria, fabricación de procesos, transporte y logística. Su plataforma busca proporcionar mediante modalidades y app services distintas maneras de aplicar la conexión entre apliaciones y dispositivos, así como api's para lograrlo. El mercado que se busca varía desde PIMES hasta empresas y corporaciones grandes. 
-Su propuesta de valor es proporcionar dentro de una misma plataforma lo necesario para la conexión total del sistema deseado, tanto en base de datos como en aplicaciones en dispositivos móviles. 
+Su propuesta de valor es proporcionar dentro de una misma plataforma lo necesario para la conexión total del sistema deseado, tanto en base de datos como en aplicaciones en dispositivos móviles. [12]
 
 ### Aplicación IoT en la empresa LINK Mobility (Edmundo)
 
@@ -157,3 +157,9 @@ Dentro de las prácticas recomendadas para el uso del git y commit se encuentran
 [8] Red Hat Inc. (n.d.). ¿Qué es el IoT? Retrieved September 16, 2020, from https://www.redhat.com/es/topics/internet-of-things/what-is-iot
 
 [9] Fazt (Director). (2018, January 1). Git y Github | Curso Práctico de Git y Github Desde Cero [Video file]. Retrieved September 16, 2020, from https://www.youtube.com/watch?v=HiXLkL42tMU
+
+[10] Plexure. (2019, August 23). Why grocery stores are adding mobile and IoT to the shopping list. Retrieved September 16, 2020, from https://medium.com/@plexurelive/why-grocery-stores-are-adding-iot-to-the-shopping-list-4d492d031c27
+
+[11] Doug Bonderud Doug Bonderud is an award-winning writer capable of bridging the gap between complex and conversational across technology, I. A. (2019, November 25). Smart Supermarkets: How IoT Is Shaping the Future of Retail. Retrieved September 16, 2020, from https://biztechmagazine.com/article/2020/04/smart-supermarkets-how-iot-shaping-future-retail-perfcon#:~:text=Smart supermarkets use connected IoT,store staff make better decisions.&text=To deliver value, smart supermarkets,experience and enhanced corporate efficiency
+
+[12] Microsoft. (n.d.). Azure IoT. Retrieved September 16, 2020, from https://azure.microsoft.com/es-mx/overview/iot/
