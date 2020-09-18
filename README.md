@@ -1,25 +1,25 @@
 # Reporte Equipo X Æ A-12 
 
-$ doctoc README.md
+## Aplicación del internet de las cosas (IoT) en las empresas
 
-## Aplicación del internet de las cosas (IoT) en la empresa Amazon (Rafael)
+### Aplicación IoT en la empresa Amazon (Rafael)
   
   Amazon está empleando el IoT en su proyecto Amazon Go, el cual pertenece al sector de supermercados. El modelo que este utiliza es por medio de una aplicación, la cual busca que los usuarios, al ir a comprar en una tienda Amazon Go, puedan agarrar lo que quieren y se paga de manera automatica al salir de ahí. Esto se paga por medio de su cuenta en Amazon y sus artículos son registrados cuando este lo agarra de su lugar.
   
-## Aplicación del internet de las cosas (IoT) en la empresa John Deere (Jorge)
+### Aplicación IoT en la empresa John Deere (Jorge)
   
   La empresa John Deere emplea el IoT en su proyecto de plantaciones en granjas, el cual va dirigido al sector primario. Dicho modelo se basa en una serie de sensores en la maquinaria, el cual busca un mejor uso de la energía, fuerza y capacidad en general de la maquinaria, además de mejorar la calidad de los cultivos y su eficiencia.
 
-## Aplicación del internet de las cosas (Iot) en la empresa City Market (Claudia)
+### Aplicación IoT en la empresa City Market (Claudia)
  
   City Market es un supermercado que se posiciona en un status gourmet. Esto debido a su gran variedad de productos y especialmente alimentos. Tiene un amplia gama de variedad que incluye productos de alto valor. El supermercado trabaja con un modelo IoT casi desde su apertura y pertenece al sector alimentario. Su aplicación permite tener fácil acceso a una vista digitalizada de su comercio, puedes realizar tu pedido desde cualquier lado y casi a cualquier domicilio. Además de que permite al ususario establecer fecha y hora de entrega. Algo que caracteriza a este aplicación de la de otros supermercados en línea es su scanner de tickets y su método de facturación. 
 
-## Aplicación del internet de las cosas (IoT) en la empresa Microsoft (Ramsés)
+### Aplicación IoT en la empresa Microsoft (Ramsés)
 
  Microsoft en conjunto con la empresa filial Azure, mantienen el proyecto de Azure IoT, donde promueven el uso de su plataforma de nube para sectores como: automoción, energía, atención sanitaria, fabricación de procesos, transporte y logística. Su plataforma busca proporcionar mediante modalidades y app services distintas maneras de aplicar la conexión entre apliaciones y dispositivos, así como api's para lograrlo. El mercado que se busca varía desde PIMES hasta empresas y corporaciones grandes. 
 Su propuesta de valor es proporcionar dentro de una misma plataforma lo necesario para la conexión total del sistema deseado, tanto en base de datos como en aplicaciones en dispositivos móviles. 
 
-## Aplicación del internet de las cosas (IoT) en la empresa LINK Mobility (Edmundo)
+### Aplicación IoT en la empresa LINK Mobility (Edmundo)
 
   Para dispositivos con la capacidad de conectarse a Internet, producidos generalmente de manera masiva en líneas de producción, existe el requerimiento adicional de poder identificar a cada uno de manera única, con el objetivo de hacerles seguimiento, mantener un archivo histórico de cada uno, y así poder hacer uso de los datos generados por cada dispositivo de la mejor manera. La compañía LINK Mobility GmbH ofrece este tipo de tarjetas así como servicios de seguimiento, localización y configuración.
 
